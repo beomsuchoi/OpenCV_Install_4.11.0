@@ -17,8 +17,8 @@ Ubuntu 22.04에서 OpenCV 4.11.0을 자동으로 설치하는 스크립트입니
 ```bash
 git clone https://github.com/beomsuchoi/OpenCV_Install_4.11.0.git
 cd OpenCV_Install_4.11.0
-chmod +x install_opencv_4.11.0.sh
-./install_opencv_4.11.0.sh
+chmod +x 4.11.0.sh
+./4.11.0.sh
 ```
 
 ### 설치 확인
