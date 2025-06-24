@@ -4,8 +4,8 @@
 
 **Copyright 2025 beomsuchoi**  
 **GitHub:** https://github.com/beomsuchoi/OpenCV_Install_4.11.0  
-**Licensed under Apache License Version 2.0**
-**Refered to https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html**
+**Licensed under Apache License Version 2.0**  
+**Refered to https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html**  
 
 ---
 
