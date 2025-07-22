@@ -27,7 +27,7 @@ chmod +x 4.11.0.sh
 pkg-config --modversion opencv4
 ```
 
-### **설치 후 해야할 것, 주의할 점**
+### $$설치 후 해야할 것, 주의할 점$$
 
 Ubuntu 22.04에서 OpenCV 4.11.0을 자동으로 설치하는 스크립트입니다. OpenCV와 관련된 ROS humble용 cv_bridge, 빌드용 ament_cmake를 재설치해줘야 합니다. 아래 코드는 복붙 X
 ```
