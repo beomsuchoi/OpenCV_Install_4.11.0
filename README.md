@@ -27,6 +27,9 @@ chmod +x 4.11.0.sh
 pkg-config --modversion opencv4
 ```
 
+### 설치 후
+
+openCV와 관련된 ROS humble용 cv_bridge, 빌드용 ament_cmake를 재설치해줘야 합니다.
 ---
 
 **RO:BIT 19th Beomsu Choi**
