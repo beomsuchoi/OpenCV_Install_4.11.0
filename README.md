@@ -29,7 +29,9 @@ pkg-config --modversion opencv4
 
 ### 설치 후
 
-openCV와 관련된 ROS humble용 cv_bridge, 빌드용 ament_cmake를 재설치해줘야 합니다.
+Ubuntu 22.04에서 OpenCV 4.11.0을 자동으로 설치하는 스크립트입니다. OpenCV와 관련된 ROS humble용 cv_bridge, 빌드용 ament_cmake를 재설치해줘야 합니다.
+
+
 ---
 
 **RO:BIT 19th Beomsu Choi**
